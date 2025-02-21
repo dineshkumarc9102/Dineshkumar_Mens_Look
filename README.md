@@ -1,8 +1,20 @@
-# React + Vite
+# 💇‍♂️ Salon Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project involves creating a **static, visually appealing, and user-friendly** website for a local salon shop. The website provides an engaging online presence, showcasing the **salon’s services** while incorporating **interactive features** to enhance user experience. ✨💈
 
-Currently, two official plugins are available:
+## 🌟 Features
+- 🎨 **Modern & Aesthetic Design**
+- 🏠 **Showcase Salon Services**
+- 🔄 **Smooth Animations with Framer Motion**
+- 📱 **Fully Responsive & Mobile-Friendly**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+- **Frontend:** React.js, HTML, CSS, JavaScript
+- **Framework:** Vite
+- **Animations:** Framer Motion
+
+## 🚀 Live Demo
+🔗 **[Salon Website Live](https://dineshkumarc-mens-look.netlify.app/)**
+
+---
+**Enhancing salon experiences through a stylish online presence! 🚀💇‍♂️**
